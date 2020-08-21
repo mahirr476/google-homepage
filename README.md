@@ -1,0 +1,1 @@
+I learnt the basics of CSS design and HTML layout. I can now create a basic one page website.
